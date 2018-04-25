@@ -1,4 +1,6 @@
 # React Newsticker
+A simple react newsticker component.
+
 ## Usage
 Import it.
 
