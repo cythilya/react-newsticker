@@ -21,3 +21,6 @@ render() {
   return <Newsticker news={news} />
 }
 ```
+
+## Demo
+Click [here](https://cythilya.github.io/react-newsticker/) to see demo the page.
