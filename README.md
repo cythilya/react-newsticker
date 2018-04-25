@@ -25,4 +25,4 @@ render() {
 ```
 
 ## Demo
-Click [here](https://cythilya.github.io/react-newsticker/) to see demo the page.
+Click [here](https://cythilya.github.io/react-newsticker/) to see the demo page.
